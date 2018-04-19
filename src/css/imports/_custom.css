@@ -7,3 +7,6 @@ input,
 textarea {
   font-family: inherit;
 }
+.bg-primary {
+    background-color: #g30;
+}

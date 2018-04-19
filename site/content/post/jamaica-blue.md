@@ -16,10 +16,11 @@ Many farms are just waiting to come together into action. Good connection betwee
 
 The community is depending upon you. By using this software you agree to treat other members with due respect, arrive on time, notify the group for changes or loss/ damage/ changes to any deliveries or dropoffs.  The network is here to help you in times of incliment weather, and to help you construct additional insulated or heated / cooled storage as necessary and designed with resource efficiency in mind.
 
-## A junkyard is not a food hub. What is the difference?
-
-We are working on the software for both simultaneously, so the crossover aspects are a key element we make use of in delivering features to the OFN Lite and the Tiny Junkyard Systems.
+## Roles: A food hub manager, producer, mentor, consumer, promoter
+We are working on the systems.
 
 ##  when deciding to seek funding 
+now is good
 
-## for conducting a healthy food consumption before and after family study
+## conducting a healthy food consumption before and after family study
+be a part of it
